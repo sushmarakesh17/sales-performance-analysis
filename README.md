@@ -1,52 +1,78 @@
 # Sales Performance Analysis
 
-## Project Overview
+## Dashboard Preview
 
-This project analyzes sales data to identify business performance using Python, Pandas, Matplotlib, and Streamlit.
+![Dashboard](dashboard.png)
 
-## Features
+---
 
-- Total Revenue
-- Total Profit
-- Total Orders
-- Average Order Value
-- Monthly Revenue Trend
-- Top Selling Products
-- Sales by Region
-- Profit by Category
-- Complete Sales Dataset
+## 📌 Project Overview
 
-## Technologies Used
+This project analyzes sales data using Python to identify revenue trends, monthly performance, top-selling products, and business growth opportunities. The analysis supports data-driven business decisions through visualizations and key performance metrics.
+
+---
+
+## 🎯 Business Problem
+
+Businesses need to understand sales performance across products, regions, and time periods to improve profitability and make informed strategic decisions.
+
+---
+
+## 🛠️ Tools & Technologies
 
 - Python
 - Pandas
 - Matplotlib
-- Streamlit
+- Microsoft Excel
+- Jupyter Notebook
 
-## Dataset
+---
 
-sales_data.csv
+## 📊 Analysis Performed
 
-Columns:
+- Monthly Sales Trend
+- Revenue Analysis
+- Top-Selling Products
+- Sales by Category
+- Business Performance Indicators
+- Data Cleaning & Exploration
+
+---
+
+## 📂 Dataset
+
+The dataset includes:
+
 - Order ID
-- Date
-- Product
+- Product Name
 - Category
-- Region
+- Sales Amount
 - Quantity
-- Price
-- Profit
+- Order Date
+- Region
 
-## Run the Project
+---
 
-Install dependencies
+## 💡 Key Insights
 
-```bash
-pip install -r requirements.txt
-```
+- Identified monthly revenue trends.
+- Highlighted top-performing products.
+- Compared category-wise sales.
+- Detected seasonal sales patterns.
+- Supported business decision-making with visual insights.
 
-Run the application
+---
 
-```bash
-streamlit run app.py
-```
+## 📁 Files Included
+
+- Sales_Performance_Analysis.ipynb
+- Sales_Data.xlsx
+- Project_Report.pdf
+
+---
+
+## 👩‍💻 Author
+
+**Sushma Rakesh**
+
+Power BI | SQL | Python | Business Analytics | GenAI
