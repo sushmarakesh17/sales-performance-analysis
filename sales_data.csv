@@ -1,0 +1,31 @@
+Order ID,Date,Product,Category,Region,Quantity,Price,Profit
+ORD1001,2025-01-03,Laptop,Electronics,North,2,65000,12000
+ORD1002,2025-01-05,Mobile,Electronics,South,3,25000,6000
+ORD1003,2025-01-07,Chair,Furniture,East,5,3500,800
+ORD1004,2025-01-10,Desk,Furniture,West,2,8500,1800
+ORD1005,2025-01-12,Refrigerator,Appliances,North,1,42000,7000
+ORD1006,2025-01-15,Washing Machine,Appliances,South,2,30000,5000
+ORD1007,2025-01-18,Printer,Electronics,East,4,12000,2500
+ORD1008,2025-01-20,Monitor,Electronics,West,3,15000,3200
+ORD1009,2025-01-22,Sofa,Furniture,North,1,55000,9000
+ORD1010,2025-01-25,Mixer,Appliances,South,6,3500,900
+ORD1011,2025-02-02,Microwave,Appliances,East,2,12000,2200
+ORD1012,2025-02-05,Keyboard,Electronics,West,8,1500,1200
+ORD1013,2025-02-09,Mouse,Electronics,North,10,800,900
+ORD1014,2025-02-12,Bookshelf,Furniture,South,3,7000,1400
+ORD1015,2025-02-15,Air Conditioner,Appliances,East,1,45000,8500
+ORD1016,2025-02-18,Laptop,Electronics,West,2,65000,12000
+ORD1017,2025-02-22,Mobile,Electronics,North,4,25000,8000
+ORD1018,2025-03-03,Chair,Furniture,South,6,3500,1200
+ORD1019,2025-03-07,Desk,Furniture,East,3,8500,2500
+ORD1020,2025-03-10,Monitor,Electronics,West,5,15000,5200
+ORD1021,2025-03-15,Printer,Electronics,North,3,12000,2200
+ORD1022,2025-03-20,Sofa,Furniture,South,2,55000,16000
+ORD1023,2025-03-24,Refrigerator,Appliances,East,2,42000,13000
+ORD1024,2025-03-28,Washing Machine,Appliances,West,3,30000,7600
+ORD1025,2025-04-02,Microwave,Appliances,North,4,12000,4200
+ORD1026,2025-04-06,Keyboard,Electronics,South,12,1500,1800
+ORD1027,2025-04-10,Mouse,Electronics,East,15,800,1500
+ORD1028,2025-04-14,Bookshelf,Furniture,West,2,7000,1300
+ORD1029,2025-04-18,Air Conditioner,Appliances,North,2,45000,16000
+ORD1030,2025-04-25,Laptop,Electronics,South,3,65000,18000
