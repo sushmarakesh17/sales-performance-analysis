@@ -2,7 +2,7 @@
 
 ## Dashboard Preview
 
-![Dashboard](dashboard.png)
+[![Dashboard](dashboard.png)](https://sales-performance-analysis-xposlvfhwweudkqffphmv7.streamlit.app/)
 
 ---
 
